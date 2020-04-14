@@ -1,5 +1,6 @@
 # StatefulSet-Mongodb
-Mongodb stateful set in k8s with 3 replicas
+
+Mongodb stateful set in GKE with 3 replicas 
 
 Configuring replicas in mongodb:
 ```
